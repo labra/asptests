@@ -1,0 +1,2 @@
+# Mentions of recursive shapes: https://lists.w3.org/Archives/Public/public-data-shapes-wg/2015Jul/0029.html
+
