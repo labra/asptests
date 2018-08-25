@@ -1,0 +1,11 @@
+S ::= true 
+     | @S 
+     | IRI | datatype
+     | S1 AND S2 
+     | NOT S 
+     | ≥ n p S 
+     | p1 = p2
+	 
+	 
+
+	 
